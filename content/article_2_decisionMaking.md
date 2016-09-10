@@ -1,9 +1,9 @@
 Title: An introduction to decision-making
 Date: 2016-09-09
-Modified: 2016-09-09 22:00
-Category: Decision-making 
+Modified: 2016-09-09 22:33
+Category: Blog 
 Tags: decision-making, sequential sampling models, decision-theory
-Slug: my-super-post
+Slug: decision-making-intro
 Authors: David Greatrex
 Summary: An introduction to the basics of decision-making
 
