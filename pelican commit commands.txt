@@ -1,0 +1,10 @@
+make html
+make publish
+cd output
+git add .
+git commit -m “commit message”
+git push -u origin master
+cd ..
+git add .
+git commit -m "add new content and change config settings"
+git push -u origin master
