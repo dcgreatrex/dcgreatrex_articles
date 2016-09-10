@@ -7,7 +7,7 @@ Slug: decision-making-intro
 Authors: David Greatrex
 Summary: An introduction to the basics of decision-making
 
-[]({attach}/images/decision_making.png)
+[]({attach}/images/decision_making.jpeg)
 
 When asked about decision-making, it is natural for people to talk about the slow deliberation of choosing between items or options in exchange for assets such as money, time or energy. Expectations are essential to this process. Humans must forecast the costs and benefits associated with specific options in advance of knowing outcomes and use this information to facilitate their goals and survival. Whilst this sounds straight forward, many people claim that they are not very good at making decisions. This might be true. You might decide to buy a house only to find a year later that it is worth less than you paid. You might decide not to wear a coat and then get caught out in a storm. You might change your mind depending on the presentation and not content of decision information. On the other hand, research has shown that humans are remarkably efficient at making decisions. We are able to learn and update reward predictions based on prior experience, form decisions based on what we think others are thinking, classify simple events in under a quarter of a second and weight choices based on uncertainty in our environment. 
 
