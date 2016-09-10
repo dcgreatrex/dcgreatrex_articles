@@ -13,6 +13,6 @@ When asked about decision-making, it is natural for people to talk about the slo
 
 So which is it: Are we good or bad at making decisions? The aim of this article is to take steps towards answering this question. It begins by defining what decisions are and then discussing whether it is possible to prove that they exist. Key theories and findings in the decision-making literature are then summarised. This covers a range of scenarios, from the fast classification of sensory information (such as deciding whether a cup is green or blue), to navigating through a busy square, to the more complex and drawn out process of deciding whether to switch jobs, go skydiving or hire an employee.
 
-Time is essential to this debate. To understand what decisions are we must analyse human behaviour at different levels and timeframes to find structural and computational similarities that can be used for understanding and prediction. Once found, this knowledge can be used to facilitate goals, enhance technological design and help us to understand why we move the way that we do.
+Time is essential to this debate. To understand what decisions are we must analyse human behaviour at different levels and timeframes to find structural and computational similarities that can be used for understanding and prediction. Once found, this knowledge can facilitate goals, enhance technological design and help us to understand why we move the way that we do.
 
 ARTICLE CURRENTLY UNDER CONSTRUCTION. PLEASE COME BACK AT A LATER DATE - dcg
