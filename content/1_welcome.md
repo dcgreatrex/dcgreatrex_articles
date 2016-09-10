@@ -1,4 +1,4 @@
-Title: Introducing my new blog
+Title: Welcome
 Date: 2016-07-17
 Modified: 2016-09-09 22:00
 Category: Blog
