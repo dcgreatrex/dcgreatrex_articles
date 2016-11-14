@@ -1,0 +1,43 @@
+***********************************
+Setup following these instructions:
+https://fedoramagazine.org/make-github-pages-blog-with-pelican/ 
+
+Make commands:
+
+There are two repos. Main and sub.
+Add content to the content folder.
+To make run:
+> make html
+> make serve
+(if you go to http://localhost:8000/ you should be able to see the new content).
+When you are happy with the content:
+> make publish
+
+Now you need to git add, commit and push for both of the main and sub repo folders on your local computer.
+
+All changes should now have been made.
+***********************************
+
+Links:
+***********************************
+pelican setup:
+http://docs.getpelican.com/en/latest/index.html
+http://hernantz.github.io/how-to-publish-a-pelican-site-on-github.html
+https://fedoramagazine.org/make-github-pages-blog-with-pelican/
+http://joshmontague.com/posts/2014/pelican-on-github/
+
+python in pelican:
+http://blog.fperez.org/2012/09/blogging-with-ipython-notebook.html
+https://jakevdp.github.io/blog/2012/10/04/blogging-with-ipython/
+http://stackoverflow.com/questions/12502187/ipython-notebook-to-html-for-blog-post
+
+mac setup:
+https://jakevdp.github.io/blog/2013/02/02/setting-up-a-mac-for-python-development/
+
+Cool sites:
+***********************************
+http://twiecki.github.io/
+
+Pelican disque:
+***********************************
+http://querbalken.net/howto-setup-comments-with-disqus-in-pelican-en.html
